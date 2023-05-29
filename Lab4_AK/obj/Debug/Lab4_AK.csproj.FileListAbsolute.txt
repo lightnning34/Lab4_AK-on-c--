@@ -1,0 +1,8 @@
+C:\Users\lightnning\Desktop\unik\Lab4_AK\Lab4_AK\bin\Debug\Lab4_AK.exe.config
+C:\Users\lightnning\Desktop\unik\Lab4_AK\Lab4_AK\bin\Debug\Lab4_AK.exe
+C:\Users\lightnning\Desktop\unik\Lab4_AK\Lab4_AK\bin\Debug\Lab4_AK.pdb
+C:\Users\lightnning\Desktop\unik\Lab4_AK\Lab4_AK\obj\Debug\Lab4_AK.csproj.AssemblyReference.cache
+C:\Users\lightnning\Desktop\unik\Lab4_AK\Lab4_AK\obj\Debug\Lab4_AK.csproj.SuggestedBindingRedirects.cache
+C:\Users\lightnning\Desktop\unik\Lab4_AK\Lab4_AK\obj\Debug\Lab4_AK.csproj.CoreCompileInputs.cache
+C:\Users\lightnning\Desktop\unik\Lab4_AK\Lab4_AK\obj\Debug\Lab4_AK.exe
+C:\Users\lightnning\Desktop\unik\Lab4_AK\Lab4_AK\obj\Debug\Lab4_AK.pdb
